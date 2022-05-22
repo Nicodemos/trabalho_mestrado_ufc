@@ -1,0 +1,6 @@
+Nesta análise pretende-se identificar se as variaveis ou atributos apresentam uma distribuíção normal dos  dados.
+Caso os atributos apresentem distribuíção normal, será utilizado o coeficiente de correlação de pearson para selecionar
+variaveis. Se os dados não apresentarem distribuíção normal, será utilizado o coeficiente de correlação de Spearman.
+
+O teste de normalidade utiliado será o kolmogorov, e será aplicado em cada variável em particular. A escolha do teste de
+kolmogov se deve ao tamanho do N, onde N é o total de instancias de cada variável.

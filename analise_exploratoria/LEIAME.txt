@@ -1,0 +1,15 @@
+Segundo o coeficiente de correlação de spearman as variáveis que a presentam correlação significantiva
+foram :
+
+dengue               0.918180
+dengue_sma7          0.975214
+acumulado_21         0.962047
+acumulado_mes       -0.417210
+populacao           -0.417210
+densidade_dem       -0.417211
+precipitacao_sma7    0.351004
+temp_med_7sma       -0.308719
+umidade_7sma         0.452204
+vento_mps_7sma      -0.343331
+
+Foi considerado o valor 30+ e 30- como ponto de corte, considerado o mínimo aceitável.
